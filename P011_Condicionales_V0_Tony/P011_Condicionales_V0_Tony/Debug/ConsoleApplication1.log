@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\LABORATORIO 208\Desktop\Tony carpeta\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(12,37): warning C4101: 'k': variable local sin referencia
+C:\Users\LABORATORIO 208\Desktop\Tony carpeta\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(12,40): warning C4101: 'l': variable local sin referencia
+  ConsoleApplication1.vcxproj -> C:\Users\LABORATORIO 208\Desktop\Tony carpeta\ConsoleApplication1\Debug\ConsoleApplication1.exe
