@@ -1,0 +1,4 @@
+﻿  P011_Condicionales_V0_Tony.cpp
+C:\Users\LABORATORIO 208\Desktop\Tony carpeta\P011_Condicionales_V0_Tony\P011_Condicionales_V0_Tony\P011_Condicionales_V0_Tony.cpp(13,37): warning C4101: 'k': variable local sin referencia
+C:\Users\LABORATORIO 208\Desktop\Tony carpeta\P011_Condicionales_V0_Tony\P011_Condicionales_V0_Tony\P011_Condicionales_V0_Tony.cpp(13,40): warning C4101: 'l': variable local sin referencia
+  P011_Condicionales_V0_Tony.vcxproj -> C:\Users\LABORATORIO 208\Desktop\Tony carpeta\P011_Condicionales_V0_Tony\Debug\P011_Condicionales_V0_Tony.exe
