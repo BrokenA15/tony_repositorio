@@ -1,0 +1,4 @@
+﻿  P015.2_BatallaPokemon_V0.cpp
+C:\Users\LABORATORIO 207A\Desktop\Tonycarpetap\P015.2_BatallaPokemon_V0\P015.2_BatallaPokemon_V0\P015.2_BatallaPokemon_V0.cpp(32,9): warning C4101: 'rival': variable local sin referencia
+C:\Users\LABORATORIO 207A\Desktop\Tonycarpetap\P015.2_BatallaPokemon_V0\P015.2_BatallaPokemon_V0\P015.2_BatallaPokemon_V0.cpp(21,9): warning C4101: 'dec2': variable local sin referencia
+  P015.2_BatallaPokemon_V0.vcxproj -> C:\Users\LABORATORIO 207A\Desktop\Tonycarpetap\P015.2_BatallaPokemon_V0\x64\Debug\P015.2_BatallaPokemon_V0.exe
