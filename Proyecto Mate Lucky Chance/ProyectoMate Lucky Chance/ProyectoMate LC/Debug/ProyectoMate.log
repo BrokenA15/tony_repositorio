@@ -1,0 +1,4 @@
+﻿  ProyectoMate.cpp
+C:\Users\LABORATORIO 207B\source\repos\ProyectoMate\ProyectoMate\ProyectoMate.cpp(61,9): warning C4101: 'cardsign3': variable local sin referencia
+C:\Users\LABORATORIO 207B\source\repos\ProyectoMate\ProyectoMate\ProyectoMate.cpp(60,9): warning C4101: 'cardsign2': variable local sin referencia
+  ProyectoMate.vcxproj -> C:\Users\LABORATORIO 207B\source\repos\ProyectoMate\Debug\ProyectoMate.exe
