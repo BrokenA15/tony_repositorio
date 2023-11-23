@@ -1,0 +1,4 @@
+﻿  P018_Punteros_V0_Tony.cpp
+C:\Users\LABORATORIO 207A\source\repos\P018_Punteros_V0_Tony\P018_Punteros_V0_Tony\P018_Punteros_V0_Tony.cpp(18,9): warning C4101: 'k': variable local sin referencia
+C:\Users\LABORATORIO 207A\source\repos\P018_Punteros_V0_Tony\P018_Punteros_V0_Tony\P018_Punteros_V0_Tony.cpp(18,12): warning C4101: 'l': variable local sin referencia
+  P018_Punteros_V0_Tony.vcxproj -> C:\Users\LABORATORIO 207A\source\repos\P018_Punteros_V0_Tony\x64\Debug\P018_Punteros_V0_Tony.exe
