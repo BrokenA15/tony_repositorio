@@ -1,0 +1,5 @@
+﻿  clases tony.cpp
+C:\Users\ALUMNO\source\repos\clases tony\clases tony\clases tony.cpp(54,21): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ALUMNO\source\repos\clases tony\clases tony\clases tony.cpp(59,16): warning C4244: 'return': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ALUMNO\source\repos\clases tony\clases tony\clases tony.cpp(79,16): warning C4244: 'return': conversión de 'int' a 'float'; posible pérdida de datos
+  clases tony.vcxproj -> C:\Users\ALUMNO\source\repos\clases tony\Debug\clases tony.exe
